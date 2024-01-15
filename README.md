@@ -4,9 +4,9 @@
 ### Table of Content
 
  - [Project Overview](#project-overview)
- - [Data Source](#data-source)
- - [Data Visualization](#data-visualization)
- - [Recomendations](#recomendations)
+ - [Tools](#tools)
+ - [Results](#results)
+ - [Recommendations](#recommendations)
    
    
 ### Project Overview
@@ -95,5 +95,4 @@ EDA:
 
 ### Limitations
 
-
-Data analysis provides actionable insights for pizza sales, yet limitations include potential biases from incomplete datasets, uncertainties regarding external factors, and challenges in causation determination. Adaptation to the dynamic market and continuous monitoring are critical for strategic success.
+The analysis has limitations that include a simplified binary gender classification, hindering a nuanced understanding of diversity. The absence of detailed exit interview data limits insight into specific reasons for attrition. External factors, like market trends, are not considered. Additionally, the static nature of the salary analysis lacks depth, urging a more dynamic approach for a comprehensive understanding of compensation trends.
