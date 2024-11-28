@@ -11,7 +11,7 @@
    
 ### Project Overview
 
-This project aims to analyze HR attrition by identifying key factors and trends contributing to employee turnover. Through data collection and analysis, we will pinpoint high-risk areas and root causes, leading to the development of short-term and long-term mitigation strategies. The implementation plan includes communication strategies, training programs, and continuous monitoring to improve employee retention and organizational success.
+This project aims to analyse HR attrition by identifying key factors and trends contributing to employee turnover. Through data collection and analysis, we will pinpoint high-risk areas and root causes, leading to the development of short-term and long-term mitigation strategies. The implementation plan includes communication strategies, training programs, and continuous monitoring to improve employee retention and organizational success.
 
 
 
